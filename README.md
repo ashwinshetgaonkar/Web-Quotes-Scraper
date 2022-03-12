@@ -7,5 +7,7 @@ The user needs to select the topic on which he/she wants to see the quotes then 
 
 To see the code along with the proper documentation check out [scraping_quotes.ipynb](https://github.com/ashwinshetgaonkar/Web-Scraping-Project-1/blob/main/scraping_quotes.ipynb) file.
 
-To use the web app bulit using streamlit check out [app.py](https://share.streamlit.io/ashwinshetgaonkar/web-scraping-project-1/main/app.py)
+To use the web app bulit using streamlit check out [app.py](https://share.streamlit.io/ashwinshetgaonkar/web-scraping-project-1/main/app.py).
+
+Tech stack used:Python,BeautifulSoup,pandas,requests,streamlit.
 
