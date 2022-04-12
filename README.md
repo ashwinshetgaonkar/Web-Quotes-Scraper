@@ -12,7 +12,7 @@
 *  An example would be to find and copy names and telephone numbers, or companies and their URLs, or e-mail addresses to a list (contact scraping).
 
 
-## Objective:
+## My work:
 * My objective for doing this project was to learn and implement web scraping on static sites.
 * In this I have used requests and BeautifulSoup libraries to perform the web scraping.
 * The project involves extracting the names of all topics of quotes and then scraping quotes along with their author name for all topics
