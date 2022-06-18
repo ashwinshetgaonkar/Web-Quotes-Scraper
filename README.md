@@ -17,15 +17,15 @@
 * In this I have used requests and BeautifulSoup libraries to perform the web scraping.
 * The project involves extracting the names of all topics of quotes and then scraping quotes along with their author name for all topics
   previously scraped.
-* Building a wep app using Streamlit that performs the above mentioned tasks.
+<!-- * Building a wep app using Streamlit that performs the above mentioned tasks. -->
 * To see the code along with the proper documentation check out [scraping_quotes.ipynb](https://github.com/ashwinshetgaonkar/Web-Quotes-Scraper/blob/main/scraping_quotes.ipynb) file.
-* Tech stack used : Python,BeautifulSoup,pandas,requests,streamlit.
+* Tech stack used : Python,BeautifulSoup,pandas,requests.
 
 
-## Web app working:
+<!-- ## Web app working:
 
 * The user needs to select the topic on which he/she wants to see the quotes then the application will display 10 quotes by scraping the web in real time.
 
 * To use the web app bulit using streamlit check out [app.py](https://share.streamlit.io/ashwinshetgaonkar/web-quotes-scraper/main/app.py).
-
+ -->
 
